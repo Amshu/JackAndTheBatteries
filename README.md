@@ -14,5 +14,4 @@ Make sure Steam VR is running and your vive is connected before you run the proj
 
 You can find the .exe build on my itch.io page: [link](https://amshu.itch.io/jackandthebatteries)
 
-## This was soley programmed and designed by me. The assets where sourced from various links. 
-##I have credited all of them in a separate credits file. I do not own any of those assets.
+## This was soley programmed and designed by me. The assets where sourced from various links. I have credited all of them in a separate credits file. I do not own any of those assets.
